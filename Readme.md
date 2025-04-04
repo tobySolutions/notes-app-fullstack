@@ -74,7 +74,7 @@ The server will run on `http://localhost:8000`
 2. Start the frontend application:
 ```bash
 cd notes-app
-npm start
+npm run dev
 ```
 The application will open in your browser at `http://localhost:3000`
 
